@@ -1,4 +1,4 @@
 <h1>
-  GitHub do Departamento de Gestão de Pessoas 👋<br>
-  Câmara de Vereadores de Balneário Camboriú/SC
+  GitHub  Oficial do Departamento de Gestão de Pessoas
+  Câmara de Vereadores de Balneário Camboriú/SC. <br/> Seja bem-vindo!
 </h1>
